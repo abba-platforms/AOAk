@@ -54,7 +54,7 @@ For a full country-level and market study, see [ANGOLA_ANALYSIS](docs/ANGOLA_ANA
 
 - [AOAk.sol](contracts/AOAk.sol) – Smart contract implementation.  
 - [ANGOLA_ANALYSIS](docs/ANGOLA_ANALYSIS.md) – Comprehensive analysis of Angola and the necessity of AOAk.  
-- [Whitepaper](docs/WHITEPAPER.md) – Full AOAk whitepaper outlining the vision, tokenomics, and technical design.  
+- [WHITEPAPER](docs/WHITEPAPER.md) – Full AOAk whitepaper outlining the vision, tokenomics, and technical design.  
 - [LICENSE](LICENSE.md) – Licensing information.  
 
 ---
