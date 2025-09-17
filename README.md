@@ -21,7 +21,6 @@ It provides a transparent, secure, and programmable digital currency that addres
 ---
 
 ## Necessity for Angola
-
 - **Currency Stability** – AOAk provides a hedge against volatility while retaining AOA parity.  
 - **Economic Efficiency** – Digital payments reduce friction in commerce, remittances, and government transfers.  
 - **Trust in Reserves** – 100% USD-backing builds confidence for users and institutions.  
@@ -33,7 +32,7 @@ For a full country-level and market study, see [ANGOLA_ANALYSIS](docs/ANGOLA_ANA
 
 ## Repository Structure
 - **contracts/** – AOAk smart contracts  
-  - `contracts/AOAk.sol` — Primary AOAk ERC20 (upgradeable) smart contract  
+  - `contracts/AOAk.sol.md` — Primary AOAk ERC20 (upgradeable) smart contract  
 - **docs/** – Whitepapers, research, and analysis  
 - **LICENSE.md** – Licensing and disclaimer information  
 - **README.md** – Project overview  
@@ -44,7 +43,6 @@ For a full country-level and market study, see [ANGOLA_ANALYSIS](docs/ANGOLA_ANA
 ---
 
 ## Key Features
-
 - **Pegged to AOA** – 1 AOAk is always equivalent to 1 AOA, ensuring familiarity and ease of adoption.  
 - **100% Backed by USD** – Every AOAk in circulation is backed by U.S. dollar reserves, providing unmatched stability.  
 - **Transparency** – On-chain verification and regular third-party audits guarantee accountability.  
@@ -54,8 +52,7 @@ For a full country-level and market study, see [ANGOLA_ANALYSIS](docs/ANGOLA_ANA
 ---
 
 ## Documentation
-
-- [AOAk.sol](contracts/AOAk.sol) – Smart contract implementation.  
+- [AOAk.sol.md](contracts/AOAk.sol.md) – Smart contract implementation.  
 - [ANGOLA_ANALYSIS](docs/ANGOLA_ANALYSIS.md) – Comprehensive analysis of Angola and the necessity of AOAk.  
 - [WHITEPAPER](docs/WHITEPAPER.md) – Full AOAk whitepaper outlining the vision, tokenomics, and technical design.  
 - [AUDIT](AUDIT.md) – Smart contract audit report and findings.  
@@ -82,7 +79,6 @@ All code is open-sourced under the MIT License, and documentation is licensed un
 ---
 
 ## License
-
 This project is licensed under the MIT License – see the [LICENSE](LICENSE.md) file for details.
 
 **Note:** AOAk is not licensed or endorsed by the Banco Nacional de Angola (BNA).
