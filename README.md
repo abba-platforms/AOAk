@@ -6,9 +6,9 @@
 ![Angola Flag](https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg)
 
 ## Overview
-The Angolan Kwanza (AOA) has faced significant challenges due to high inflation, currency volatility, and dependence on oil revenues. AOAk offers a complementary digital stablecoin infrastructure that is fully collateralized with USD reserves, giving both local and international users a safe, transparent, and efficient means of transacting in a Kwanza-backed digital form.
+The Angolan Kwanza (AOA) has faced significant challenges due to high inflation, currency volatility, and dependence on oil revenues. Angola Digital Kwanza (AOAk) offers a complementary digital stablecoin infrastructure that is fully collateralized with USD reserves, giving both local and international users a safe, transparent, and efficient means of transacting in a Kwanza-backed digital form.
 
-AOAk (Angola Digital Kwanza), a blockchain-based stablecoin, is pegged **1:1 to the Angolan Kwanza (AOA)** and backed **100% by United States Dollar (USD)** reserves held in a secure offshore custodian bank.
+AOAk, a blockchain-based stablecoin, is pegged **1:1 to the Angolan Kwanza (AOA)** and backed **100% by United States Dollar (USD)** reserves held in a secure offshore custodian bank.
 
 It provides a transparent, secure, and programmable digital currency that addresses Angola’s need for a modern financial instrument, bridging local users with the global financial system.
 
@@ -37,6 +37,9 @@ For a full country-level and market study, see [ANGOLA_ANALYSIS](docs/ANGOLA_ANA
 - **docs/** – Whitepapers, research, and analysis  
 - **LICENSE.md** – Licensing and disclaimer information  
 - **README.md** – Project overview  
+- **AUDIT.md** – Independent security and compliance audit  
+- **CONTRIBUTION.md** – Guidelines for contributors  
+- **SECURITY.md** – Security policy and vulnerability reporting instructions  
 
 ---
 
@@ -55,6 +58,9 @@ For a full country-level and market study, see [ANGOLA_ANALYSIS](docs/ANGOLA_ANA
 - [AOAk.sol](contracts/AOAk.sol) – Smart contract implementation.  
 - [ANGOLA_ANALYSIS](docs/ANGOLA_ANALYSIS.md) – Comprehensive analysis of Angola and the necessity of AOAk.  
 - [WHITEPAPER](docs/WHITEPAPER.md) – Full AOAk whitepaper outlining the vision, tokenomics, and technical design.  
+- [AUDIT](AUDIT.md) – Smart contract audit report and findings.  
+- [CONTRIBUTION](CONTRIBUTION.md) – Contribution guidelines for developers and collaborators.  
+- [SECURITY](SECURITY.md) – Security policy and responsible disclosure practices.  
 - [LICENSE](LICENSE.md) – Licensing information.  
 
 ---
