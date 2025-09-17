@@ -1,7 +1,26 @@
 # Changelog
 
-This document records all notable changes, additions, and updates to the AOAk repository, following **semantic versioning (SemVer) principles**.  
-It provides a clear and chronological history of releases, ensuring transparency, traceability, and accountability for developers, auditors, institutional stakeholders, and public users.
+This document records all notable changes, additions, and updates to the AOAk repository, following **semantic versioning (SemVer) principles**. It provides a clear and chronological history of releases, ensuring transparency, traceability, and accountability for developers, auditors, institutional stakeholders, and public users.
+
+---
+
+## [v0.1.1] – 2025-09-17
+
+### Updated
+- **Smart Contract**
+  - Renamed `contracts/AOAk.sol` → `contracts/AOAk.sol.md` for documentation purposes.
+  - Applied recommended and suggested OpenZeppelin-style fixes to AOAk contract.
+- **Documentation**
+  - README updated to reference **AUDIT.md**, **CONTRIBUTION.md**, and **SECURITY.md**.
+  - All links and references adjusted for `AOAk.sol.md`.
+- **Repository Structure**
+  - Added `docs/AUDIT.md` – Full OpenZeppelin-style audit with priority scoring.
+  - Added `docs/CONTRIBUTION.md` – Guidelines for external contributions.
+  - Added `docs/SECURITY.md` – Security best practices and reporting procedures.
+  
+### Notes
+- Updates focus on transparency, maintainability, and security without altering functional logic of AOAk.
+- Ensures full traceability and auditability for developers, auditors, and institutional stakeholders.
 
 ---
 
