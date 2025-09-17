@@ -1,4 +1,6 @@
-# 🇦🇴 ANGOLA ANALYSIS
+# ANGOLA ANALYSIS
+
+![Angola Flag](https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg)
 
 ## Angola: Country Overview
 
