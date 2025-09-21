@@ -3,7 +3,28 @@
 
 # Angola Digital Kwanza (AOAk) Stablecoin
 
-![Angola Flag](https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg)
+![AOAk Logo](branding/aoaklogo.jpg)
+
+## Deployment
+
+Angola Digital Kwanza (AOAk) is currently deployed on the **Binance Smart Chain (BSC) Testnet**.  
+This deployment allows developers, partners, and early adopters to explore, test, and provide feedback on AOAk’s smart contract design before its mainnet launch.
+
+- **Contract Address:** [0x32629ec2534dd50380f667AB67A828F2cB24553e](https://testnet.bscscan.com/address/0x32629ec2534dd50380f667AB67A828F2cB24553e)  
+- **Network:** BSC Testnet  
+- **Status:** Verified on BscScan Testnet  
+
+---
+
+### What’s Next
+
+Following the successful Testnet deployment, the next milestones include:  
+1. **Custodian Bank Partnership** – securing an offshore custodian bank to hold and manage reserves backing AOAk.  
+2. **Independent Security Audit** – conducting a professional smart contract audit for production-grade assurance.  
+3. **Mainnet Deployment** – launching AOAk on the Binance Smart Chain Mainnet with full reserve backing.  
+4. **Ecosystem Integration** – enabling payment solutions, remittances, and merchant adoption in Angola and beyond.
+
+---
 
 ## Overview
 The Angolan Kwanza (AOA) has faced significant challenges due to high inflation, currency volatility, and dependence on oil revenues. Angola Digital Kwanza (AOAk) offers a complementary digital stablecoin infrastructure that is fully collateralized with USD reserves, giving both local and international users a safe, transparent, and efficient means of transacting in a Kwanza-backed digital form.
