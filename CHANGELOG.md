@@ -4,6 +4,21 @@ This document records all notable changes, additions, and updates to the AOAk re
 
 ---
 
+## [v1.0.1] - 2025-09-21
+
+### Added
+- `branding/` folder created to store project assets.
+- AOAk logo uploaded as `branding/aoaklogo.jpg`.
+
+### Changed
+- Folder `Branding` renamed to lowercase `branding` for consistency.
+- README updated to include Testnet deployment details and AOAk logo reference.
+
+### Removed
+- Old `Branding` folder deleted after migration of assets.
+
+---
+
 ## [v0.1.1] – 2025-09-17
 
 ### Updated
