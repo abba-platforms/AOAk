@@ -4,6 +4,30 @@ This document records all notable changes, additions, and updates to the AOAk re
 
 ---
 
+## [v1.0.2] – 2025-10-26
+
+### Added
+
+* ✅ AOAk **deployed and verified** on **Binance Smart Chain (BSC) Mainnet**
+
+  * **Proxy (Active):** [0xFcB51D954FC49b437Bf7329998D924CBa848b595](https://bscscan.com/address/0xFcB51D954FC49b437Bf7329998D924CBa848b595#code)
+  * **Implementation:** [0xeDa958fDBA6b56fEe9d2dD6EEF02c9D8B49445E2](https://bscscan.com/address/0xeDa958fDBA6b56fEe9d2dD6EEF02c9D8B49445E2#code)
+* 🔗 Clarified that **Proxy address** is the main point of interaction for all live transactions.
+* 💵 Updated README and documentation to reflect **100% on-ledger USD reserve backing**.
+* 🌍 Expanded **mission, overview, and necessity sections** for better clarity on AOAk’s role in Angola and globally.
+* 📝 Preserved original repository structure and tables in README.
+
+### Changed
+
+* 📄 Minor formatting updates in README to improve readability.
+* 📌 Documentation links updated to point to verified Mainnet contracts.
+
+### Fixed
+
+* ⚡ Corrected references to Testnet addresses where Mainnet addresses are now available.
+
+---
+
 ## [v1.0.1] - 2025-09-21
 
 ### Added
