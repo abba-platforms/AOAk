@@ -1,105 +1,121 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
 [![CC BY 4.0](https://img.shields.io/badge/Docs-CC--BY%204.0-blue.svg)](LICENSE.md)
 
-# Angola Digital Kwanza (AOAk) Stablecoin
+# 🇦🇴 Angola Digital Kwanza (AOAk) — Blockchain Stablecoin
 
 ![AOAk Logo](branding/aoaklogo.jpg)
-
-## Deployment
-
-Angola Digital Kwanza (AOAk) is currently deployed on the **Binance Smart Chain (BSC) Testnet**.  
-This deployment allows developers, partners, and early adopters to explore, test, and provide feedback on AOAk’s smart contract design before its mainnet launch.
-
-- **Contract Address:** [0x32629ec2534dd50380f667AB67A828F2cB24553e](https://testnet.bscscan.com/address/0x32629ec2534dd50380f667AB67A828F2cB24553e)  
-- **Network:** BSC Testnet  
-- **Status:** Verified on BscScan Testnet  
-
----
-
-### What’s Next
-
-Following the successful Testnet deployment, the next milestones include:  
-1. **Custodian Bank Partnership** – securing an offshore custodian bank to hold and manage reserves backing AOAk.  
-2. **Independent Security Audit** – conducting a professional smart contract audit for production-grade assurance.  
-3. **Mainnet Deployment** – launching AOAk on the Binance Smart Chain Mainnet with full reserve backing.  
-4. **Ecosystem Integration** – enabling payment solutions, remittances, and merchant adoption in Angola and beyond.
 
 ---
 
 ## Overview
-The Angolan Kwanza (AOA) has faced significant challenges due to high inflation, currency volatility, and dependence on oil revenues. Angola Digital Kwanza (AOAk) offers a complementary digital stablecoin infrastructure that is fully collateralized with USD reserves, giving both local and international users a safe, transparent, and efficient means of transacting in a Kwanza-backed digital form.
+The Angolan Kwanza (AOA) has faced significant challenges due to high inflation, currency volatility, and dependence on oil revenues.  
 
-AOAk, a blockchain-based stablecoin, is pegged **1:1 to the Angolan Kwanza (AOA)** and backed **100% by United States Dollar (USD)** reserves held in a secure offshore custodian bank.
+Angola Digital Kwanza (AOAk) is a blockchain-native stablecoin pegged 1:1 to the Angolan Kwanza (AOA) and backed 100% by verified USD reserves held in a secure offshore custodian bank, offering a complementary digital stablecoin infrastructure that is fully collateralized and transparent, giving both local and international users a safe, transparent, and efficient means of transacting in a Kwanza-backed digital form.
 
-It provides a transparent, secure, and programmable digital currency that addresses Angola’s need for a modern financial instrument, bridging local users with the global financial system.
+AOAk provides a transparent, secure, and programmable digital currency that addresses Angola’s need for a modern financial instrument, bridging local users with the global financial system.
 
 - **Ticker:** AOAK  
-- **Name:** AOAk – Angola Digital Kwanza  
+- **Name:** Angola Digital Kwanza (AOAk)  
 - **Chain:** BNB Smart Chain (BSC)  
 - **Standard:** ERC20 (Upgradeable, migration-ready to ERC-3643)  
-- **Backed By:** 100% USD reserves  
+- **Backed By:** 100% on-ledger verified USD reserves  
 
 ---
 
-## Necessity for Angola
-- **Currency Stability** – AOAk provides a hedge against volatility while retaining AOA parity.  
-- **Economic Efficiency** – Digital payments reduce friction in commerce, remittances, and government transfers.  
-- **Trust in Reserves** – 100% USD-backing builds confidence for users and institutions.  
-- **International Acceptance** – AOAk can bridge Angola’s local economy with global markets.  
+## 🔗 Mainnet Deployment
 
-For a full country-level and market study, see [ANGOLA_ANALYSIS](docs/ANGOLA_ANALYSIS.md).  
+AOAk is now **live and verified** on the **Binance Smart Chain (BSC) Mainnet**.
 
----
+| Network | Contract Type | Address | Explorer |
+|----------|----------------|----------|-----------|
+| **BSC Mainnet** | **Proxy (Main)** | [0xFcB51D954FC49b437Bf7329998D924CBa848b595](https://bscscan.com/address/0xFcB51D954FC49b437Bf7329998D924CBa848b595#code) | ✅ Verified |
+| **BSC Mainnet** | Implementation | [0xeDa958fDBA6b56fEe9d2dD6EEF02c9D8B49445E2](https://bscscan.com/address/0xeDa958fDBA6b56fEe9d2dD6EEF02c9D8B49445E2#code) | ✅ Verified |
 
-## Repository Structure
-- **contracts/** – AOAk smart contracts  
-  - `contracts/AOAk.sol.md` — Primary AOAk ERC20 (upgradeable) smart contract  
-- **docs/** – Whitepapers, research, and analysis  
-- **LICENSE.md** – Licensing and disclaimer information  
-- **README.md** – Project overview  
-- **AUDIT.md** – Independent security and compliance audit  
-- **CONTRIBUTION.md** – Guidelines for contributors  
-- **SECURITY.md** – Security policy and vulnerability reporting instructions  
+> 💡 The **Proxy Address** should be used for all live on-chain interactions, as it points to the verified, upgradeable implementation.
 
 ---
 
-## Key Features
-- **Pegged to AOA** – 1 AOAk is always equivalent to 1 AOA, ensuring familiarity and ease of adoption.  
-- **100% Backed by USD** – Every AOAk in circulation is backed by U.S. dollar reserves, providing unmatched stability.  
-- **Transparency** – On-chain verification and regular third-party audits guarantee accountability.  
-- **Interoperability** – Built on ERC-3643 standards for compliance and global accessibility.  
-- **Financial Inclusion** – Enables digital payments for unbanked populations while supporting cross-border trade.    
+## 🧠 Key Details
+
+- **Ticker:** AOAK  
+- **Name:** Angola Digital Kwanza (AOAk)  
+- **Chain:** Binance Smart Chain (BSC)  
+- **Standard:** ERC-20 (Upgradeable; migration-ready to ERC-3643)  
+- **Peg:** 1 AOAk = 1 AOA  
+- **Reserve Backing:** 100% USD reserves held with a regulated offshore custodian  
+- **Status:** ✅ Live and Verified on BSC Mainnet  
 
 ---
 
-## Documentation
-- [AOAk.sol.md](contracts/AOAk.sol.md) – Smart contract implementation.  
-- [ANGOLA_ANALYSIS](docs/ANGOLA_ANALYSIS.md) – Comprehensive analysis of Angola and the necessity of AOAk.  
-- [WHITEPAPER](docs/WHITEPAPER.md) – Full AOAk whitepaper outlining the vision, tokenomics, and technical design.  
-- [AUDIT](AUDIT.md) – Smart contract audit report and findings.  
-- [CONTRIBUTION](CONTRIBUTION.md) – Contribution guidelines for developers and collaborators.  
-- [SECURITY](SECURITY.md) – Security policy and responsible disclosure practices.  
-- [LICENSE](LICENSE.md) – Licensing information.  
+## 🎯 Mission & Necessity
+
+The Angolan Kwanza (AOA) faces ongoing challenges from **inflation, volatility, and limited convertibility**. AOAk provides a **digitally accessible, reserve-backed** alternative that strengthens financial confidence and inclusion.
+
+### Benefits for Angola:
+- 💱 **Stability** — Reduces volatility by maintaining a 1:1 peg to the AOA.  
+- ⚡ **Efficiency** — Enables real-time payments, remittances, and e-commerce integration.  
+- 🪙 **Transparency** — On-chain verifiability and third-party reserve audits.  
+- 🌍 **Global Accessibility** — Bridges Angola’s local economy with digital markets worldwide.  
+- 👥 **Inclusion** — Expands access to digital finance for underbanked communities.
+
+For a deeper economic and policy context, see [ANGOLA_ANALYSIS.md](docs/ANGOLA_ANALYSIS.md).
 
 ---
 
-## Disclaimer
-AOAk is **not licensed, regulated, or endorsed by the Banco Nacional de Angola (BNA)**.
+## 🧩 Repository Structure
 
-AOAk is developed as an independent, blockchain-native digital asset by **Simon Kapenda (Creator)** and maintained by **Abba Platforms Inc.**  
-
-All code is open-sourced under the MIT License, and documentation is licensed under CC-BY 4.0.  
+| Directory | Description |
+|------------|-------------|
+| `contracts/` | Core AOAk smart contracts (Upgradeable ERC-20) |
+| `docs/` | Whitepapers, country analysis, and economic reports |
+| `branding/` | Logos and marketing assets |
+| `AUDIT.md` | Independent audit documentation |
+| `SECURITY.md` | Security policy and responsible disclosure |
+| `CONTRIBUTION.md` | Developer contribution guidelines |
 
 ---
 
-## Contact
+## 🛠️ Features
+
+- 🔒 **Secure & Upgradeable** — Built with OpenZeppelin upgradeable contracts.  
+- 💰 **USD-Backed Reserves** — Fully collateralized by U.S. dollars.  
+- 🌐 **Global Interoperability** — Compatible with wallets, DeFi protocols, and exchanges.  
+- 📊 **Transparent Ledger** — Real-time on-chain visibility.  
+- 🧾 **Compliance-Ready** — Designed for future ERC-3643 (regulated token) migration.  
+
+---
+
+## 📄 Documentation
+
+- [AOAk.sol.md](contracts/AOAk.sol.md) — Smart contract implementation  
+- [WHITEPAPER](docs/WHITEPAPER.md) — Vision, tokenomics, and architecture  
+- [ANGOLA_ANALYSIS.md](docs/ANGOLA_ANALYSIS.md) — Economic necessity report  
+- [AUDIT.md](AUDIT.md) — Smart contract audit summary  
+- [CONTRIBUTION.md](CONTRIBUTION.md) — Developer contribution process  
+- [SECURITY.md](SECURITY.md) — Security policy and vulnerability reporting  
+
+---
+
+## ⚖️ Disclaimer
+
+AOAk is **not licensed, endorsed, or sanctioned** by the **Banco Nacional de Angola (BNA)** or any Angolan government entity.  
+
+It is developed and maintained independently by **Abba Payments Ltd.**, a British Virgin Islands–registered fintech company, founded by **Simon Kapenda**.
+
+All code is open-sourced under the **MIT License**, and documentation is licensed under **CC BY 4.0**.
+
+---
+
+## 📬 Contact
+
 - **Website:** [https://aoak.io](https://aoak.io)  
 - **GitHub:** [https://github.com/abba-platforms/AOAk](https://github.com/abba-platforms/AOAk)  
-- **Email:** info@aoak.io
+- **Email:** partners@abbapp.com  
+- **Organization:** [Abba Payments Ltd.](https://abbapp.com)  
 
 ---
 
-## License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE.md) file for details.
+## 🪙 License
 
-**Note:** AOAk is not licensed or endorsed by the Banco Nacional de Angola (BNA).
+This project is licensed under the **MIT License** – see [LICENSE.md](LICENSE.md) for details.  
+Documentation is released under **Creative Commons CC-BY 4.0**.
