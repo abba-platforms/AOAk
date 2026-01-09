@@ -17,7 +17,7 @@ AOAk provides a transparent, secure, and programmable digital currency that addr
 - **Ticker:** AOAK  
 - **Name:** Angola Digital Kwanza (AOAk)  
 - **Chain:** BNB Smart Chain (BSC)  
-- **Standard:** ERC20 (Upgradeable, migration-ready to ERC-3643)  
+- **Standard:** BEP-20 (Upgradeable)  
 - **Backed By:** 100% on-ledger verified USD reserves  
 
 ---
